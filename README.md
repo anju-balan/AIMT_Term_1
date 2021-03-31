@@ -1,1 +1,1 @@
-# AIMT_Term_1
+# Python programming
